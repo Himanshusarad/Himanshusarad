@@ -6,6 +6,10 @@
 
 I'm a passionate developer working on various projects across different technologies. Currently focusing on Java development and web applications.
 
+### 🌐 Find me around the web
+- Portfolio Website: [Himanshusarad-portfolio](https://himanshusarad.github.io/Himanshusarad-portfolio/)
+- Personal Projects: [View All Projects](https://github.com/Himanshusarad?tab=repositories)
+  
 ### 🛠️ Tech Stack
 - **Languages:** Java, Typescript
 - **Framework and Libraries:** Spring boot, Hibernate, Restful APIs, Node.js, React
@@ -54,9 +58,6 @@ I'm a passionate developer working on various projects across different technolo
 <a href="https://www.github.com/Himanshusarad"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
 
 ---
-### 🌐 Find me around the web
-- Portfolio Website: []()
-- Personal Projects: [View All Projects](https://github.com/Himanshusarad?tab=repositories)
 
 💡 **Note:** Currently working on Java projects and enjoying building efficient, performant applications.
 
